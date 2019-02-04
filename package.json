@@ -1,0 +1,14 @@
+{
+  "name": "videoproject",
+  "version": "1.0.0",
+  "description": "deneme1",
+  "main": "index.js",
+  "scripts": {
+    "electron": "electron ."
+  },
+  "author": "Rifat",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^4.0.4"
+  }
+}
