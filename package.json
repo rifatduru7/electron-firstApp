@@ -9,6 +9,7 @@
   "author": "Rifat",
   "license": "ISC",
   "dependencies": {
+    "@ffmpeg-installer/ffmpeg": "^1.0.17",
     "electron": "^4.0.4"
   }
 }
